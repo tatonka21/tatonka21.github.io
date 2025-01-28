@@ -10,8 +10,7 @@ body {
     color: #FFFFFF;
 }
 
-.header-sub {
-    font-weight: normal;
-    font-size: 20px;
-    color: #FFFFFF;
+.link--cta {
+    font-size: 16px;
+    color: Aquamarine;
 }
